@@ -32,6 +32,9 @@ void question_2(){
   print('Masukan peran :');
   String? peran = stdin.readLineSync()!;
 
+  print(nama == '');
+  print(peran == '');
+  
   if (nama == '' && peran == '') {
     print('Nama harus diisi!');
     question_2();

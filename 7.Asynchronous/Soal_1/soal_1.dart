@@ -22,7 +22,7 @@ class Human {
 
   Future<void> getData() async{
     await Future.delayed(Duration(seconds: 3));
-    name = "Hilmy";
+    name = "Ikhwan";
     print('get data [done]');
   }
 }
