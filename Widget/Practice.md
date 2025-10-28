@@ -1,4 +1,4 @@
-## **Latihan 1 — Text dan Image**
+## **Latihan 1 - Text dan Image**
 
 **Tujuan:** memahami penggunaan dasar widget `Text` dan `Image`.
 
@@ -54,7 +54,7 @@ class LatihanSatu extends StatelessWidget {
 
 ---
 
-## **Latihan 2 — Layout Menggunakan Container, Column, dan Row**
+## **Latihan 2 - Layout Menggunakan Container, Column, dan Row**
 
 **Tujuan:** memahami bagaimana mengatur tata letak elemen di Flutter.
 
@@ -113,7 +113,7 @@ class LatihanDua extends StatelessWidget {
 
 ---
 
-## **Latihan 3 — ListTile Tanpa Ikon**
+## **Latihan 3 - ListTile Tanpa Ikon**
 
 **Tujuan:** menampilkan daftar data dengan struktur teks.
 
@@ -154,7 +154,7 @@ class LatihanTiga extends StatelessWidget {
 
 ---
 
-## **Latihan 4 — Custom Theme dan Font**
+## **Latihan 4 - Custom Theme dan Font**
 
 **Tujuan:** menerapkan font dan warna tema secara global.
 
