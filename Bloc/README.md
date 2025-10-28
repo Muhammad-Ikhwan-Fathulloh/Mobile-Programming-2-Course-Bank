@@ -15,6 +15,9 @@ Setelah mengikuti sesi ini, peserta dapat:
 
 ### a. Instalasi Paket
 
+- Install flutter_bloc https://pub.dev/packages/flutter_bloc/install
+- Install equatable https://pub.dev/packages/equatable/install
+
 Buka file `pubspec.yaml`, lalu tambahkan:
 
 ```yaml
