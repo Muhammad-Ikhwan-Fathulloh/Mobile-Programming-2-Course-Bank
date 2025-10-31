@@ -140,7 +140,7 @@ class TodoPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('📝 To-Do List'),
+        title: const Text('To-Do List'),
         centerTitle: true,
       ),
       body: Padding(
